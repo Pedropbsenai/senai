@@ -1,0 +1,102 @@
+.capa{
+    height: 80vh;
+   text-align: center;
+}
+
+.aluno{
+    height: 60vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.title-aluno, title-grupo{
+    flex: 1;
+}
+
+.Portifolio{
+    height: 60vb;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.OutrosGrupos{
+    height: 60vb;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.senai{
+    width: 200px;
+}
+
+body{
+    color: rgb(255, 255, 255);
+    margin: 0;
+    background: rgb(253,29,29);
+background: linear-gradient(90deg, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+
+}
+
+h1{
+    font-size: 100px;
+    
+}
+
+section{
+    padding: 1%;
+}
+
+.fotodopedro{
+    height: 300px;
+}
+
+
+
+.grupos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    gap: 100px;
+  }
+.logo-grupo{
+   height: 150px;
+   flex: 2;
+}
+
+.logo-small{
+    height: auto;
+    width: 300px;
+}
+.grupo img{
+    height: auto;
+    width: 200px;
+}
+
+.grup img{
+    height: auto;
+    width: 300px;
+    
+}
+
+
+.logobooklet{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-left: 5%;
+    }
+
+    .logobooklet{
+        height: 50%;
+        display: flex;
+       
+    }
+.title-alunodireita{
+    text-align: right;
+}
