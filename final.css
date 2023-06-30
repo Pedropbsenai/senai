@@ -1,0 +1,29 @@
+.roxo{
+    color:#FF00FF ;
+}
+
+.celular{
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+}
+body{
+   background-color: #28286F;
+   color: antiquewhite;
+}
+
+.mockup{
+    height: 80vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+}
+
+.img-mockup{
+    height: 550px;
+}
+
+.textomockup{
+    width: 500px;
+}
